@@ -1,1 +1,1 @@
-# CssHacks
+# Some scss helpers
